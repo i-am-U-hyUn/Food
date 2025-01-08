@@ -1,4 +1,3 @@
-# Food
 # Cyber Pioneers 프로젝트
 
 ## 📢 프로젝트 개요
